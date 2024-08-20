@@ -1,0 +1,2 @@
+global:
+  helloMessage: Hello world from overrides/values-ocp4.gmbros.local.yaml
