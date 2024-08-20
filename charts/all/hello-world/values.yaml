@@ -2,3 +2,4 @@
 global:
   hubClusterDomain: hub.example.com
   localCluster: local.example.com
+  helloMessage: Hello world from values.yaml in chart
