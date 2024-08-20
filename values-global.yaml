@@ -5,6 +5,7 @@ global:
     useCSV: false
     syncPolicy: Automatic
     installPlanApproval: Automatic
+  helloMessage: Hello world from values-global.yaml
 main:
   clusterGroupName: hub
   multiSourceConfig:
